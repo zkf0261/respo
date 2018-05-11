@@ -1,1 +1,3 @@
+server:
+  port: 9000
 foo: foo version 11
